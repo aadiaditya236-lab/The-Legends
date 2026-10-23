@@ -1,0 +1,9 @@
+{
+  "name": "the-legends-live-voice",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The Legends group website with WebRTC live voice rooms",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2", "socket.io": "^4.8.1" }
+}
